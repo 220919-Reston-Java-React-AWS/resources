@@ -1,6 +1,7 @@
 # Links
 
 ## Cohort Links
+* [Lecture Zoom Room](https://revature.zoom.us/j/86839848418?pwd=N2VyYWxpeko5K1pRQW1IQkVTWmNFdz09)
 * [Cohort Sharepoint](https://revaturetech.sharepoint.com/sites/220919-Reston-JavaReactAWS/)
 
 ## Coding practice
