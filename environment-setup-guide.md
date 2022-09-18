@@ -17,7 +17,7 @@ Please follow the installation videos that I have recorded to get the technologi
 * [Git](https://drive.google.com/file/d/1Q2ExAzuM9Bd4Cee2Ifz_vyNK_Rtf8h1c/view?usp=sharing)
 * [Oracle JDK 11](https://drive.google.com/file/d/1LQ4VazqojSKNATh8uTw08POTyEuh6BXW/view?usp=sharing)
 * [IntelliJ](https://drive.google.com/file/d/15DG0ytEQ0RweTHfJCXA2y0386T56MWrQ/view?usp=sharing)
-* [VSCode](https://drive.google.com/file/d/1VPSsQZoJhTRH1mG4V9iegtGeXUvPvHhz/view?usp=sharing)
+* [VSCode](https://drive.google.com/file/d/1cvsEA_aB-2iXuN3lBLE8dnDqcyWKayn9/view?usp=sharing)
 * [PostgreSQL](https://drive.google.com/file/d/1IMN8rtRvyfDXfODiMNn2_li-DfOVtHVv/view?usp=sharing)
 * [DBeaver](https://drive.google.com/file/d/1OvTaSxEHAAfl66Nk9k_F3SUngnCJrmKC/view?usp=sharing)
 * [Postman](https://drive.google.com/file/d/1M5ZlfgZcLhGzaA_xwaa3k9s2CchO37zc/view?usp=sharing)
